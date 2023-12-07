@@ -1,0 +1,17 @@
+[NX Daemon Server] - 2023-12-07T04:54:27.507Z - Started listening on: /tmp/ffee84e3b1d077d36b5e/d.sock
+[NX Daemon Server] - 2023-12-07T04:54:27.518Z - [WATCHER]: Subscribed to changes within: /mnt/c/Eqaim/learning/Devops/New folder/demo-trivial-packages (native)
+[NX Daemon Server] - 2023-12-07T04:54:27.522Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-07T04:54:27.526Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-07T04:54:27.540Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-07T04:54:27.544Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-07T04:54:28.560Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-07T04:54:28.572Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-07T04:54:28.572Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-07T04:54:28.691Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-07T04:54:28.695Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-07T04:54:28.696Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1147. Response time: 5.
+[NX Daemon Server] - 2023-12-07T04:54:28.697Z - Time taken for 'total for creating and serializing project graph' 1146.9902000000002ms
+[NX Daemon Server] - 2023-12-07T04:54:28.709Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-07T04:54:28.710Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-07T04:54:28.710Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-07T04:54:29.008Z - Closed a connection. Number of open connections: 0
